@@ -1,3 +1,5 @@
+# Arduino-C
+
 Assignment 4 of CSC230 - Intro to Computer Architecture at UVic, written in C
 
 A program for controlling LED patterns and animations on an embedded system using timer interrupts and PWM.
